@@ -24,3 +24,6 @@
 @import url(../blocks/intro/__image/intro__image.css);
 @import url(../blocks/intro/__caption/intro__caption.css);
 
+/*Photo Grid*/
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
