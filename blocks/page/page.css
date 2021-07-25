@@ -1,22 +1,8 @@
-@font-face {
-  font-family: 'Inter';
-  src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Regular.woff);
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: 'Inter';
-  src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Bold.woff2);
-  font-weight: bold;
-}
-
 .page {
-   max-width: 1280px;
+    max-width: 1280px;
     margin: 0 auto;
     font-family: 'Inter', Arial, sans-serif;
     color: #FFFFFF;
-  }
-
-  body{
     background-color: #2A2C2F;
   }
+
