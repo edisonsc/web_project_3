@@ -1,5 +1,8 @@
 .lead{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-items: center;
+    width:calc(100% - 296px);
+    margin:auto;
+    padding:0;
 }

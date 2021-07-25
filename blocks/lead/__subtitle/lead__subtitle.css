@@ -4,6 +4,6 @@
     font-style: normal;
     line-height: 36px;
     text-align:center;
-    width: calc(100% - 660px);
     margin: 0 auto 64px;
+    width: calc(100% - 364px);
 }

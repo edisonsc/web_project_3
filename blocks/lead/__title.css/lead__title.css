@@ -5,5 +5,5 @@
     line-height: 104%;
     text-align: center;
     margin: 0 auto 32px ;
-    width: calc(100% - 528px);
+    max-width: 720px;
 }
