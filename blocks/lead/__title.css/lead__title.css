@@ -4,6 +4,6 @@
     font-size: 96px;
     line-height: 100px;
     text-align: center;
-    margin: auto;
-    max-width: 720px;
+    margin: 0 auto 32px ;
+    width: calc(100% - 528px);
 }
