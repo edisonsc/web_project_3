@@ -1,6 +1,9 @@
-.place{
-    display: flex;
-
-    gap: 2%;
-  
-}       
+   .place{
+display: grid;
+grid-template-rows: 1fr 2fr;
+grid-template-columns: repeat(2,1fr);
+gap: 2%;
+grid-template-areas: 
+"title link"
+"image paragraph";
+}
