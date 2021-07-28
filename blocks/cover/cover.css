@@ -1,0 +1,11 @@
+.cover{
+    background-image: url(../../images/cover-route-66.jpg);
+    background-position: center;
+    max-width: 1184px;
+    min-height: 740px;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
