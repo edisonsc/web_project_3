@@ -1,0 +1,33 @@
+.cover__image{
+    position:relative;
+    background-image: url(../../../images/cover-route-66.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    max-width: 1184px;
+    min-height: 740px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color:white;
+    margin:auto;
+}
+
+.cover__image::before{
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background:#2A2C2F;
+    opacity:0;
+    transition: opacity 0.3s ease;
+}
+
+.cover__image:hover::before{
+    opacity:0.8;
+}
