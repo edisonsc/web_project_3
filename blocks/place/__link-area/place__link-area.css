@@ -1,0 +1,6 @@
+.place__link-area{
+grid-area: link-area;
+align-self: flex-end;
+margin:0;
+padding:0;
+}  
