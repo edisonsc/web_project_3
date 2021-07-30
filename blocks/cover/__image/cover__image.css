@@ -14,6 +14,7 @@
     text-decoration: none;
     color:white;
     margin:auto;
+    cursor: pointer;
 }
 
 .cover__image::before{
@@ -31,3 +32,9 @@
 .cover__image:hover::before{
     opacity:0.8;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__image{ 
+        width:100%;
+    }
+ }
