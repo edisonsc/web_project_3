@@ -1,8 +1,8 @@
 .places{
     display:flex;
     flex-direction: column;
-    width: 80%;
-    margin: 0 auto 0;
+    max-width: calc(100% - 96px);
+    margin: 0 auto 90px;
     gap:80px;
 }
 
