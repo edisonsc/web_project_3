@@ -7,3 +7,17 @@ grid-template-areas:
 "title link-area"
 "image text";
 }
+
+@media screen and (max-width: 425px) {
+    .place {
+        grid-column-gap:0;
+        grid-row-gap:2%;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "title"
+         "link-area"
+        "image"
+        "text";
+    }
+  }
+  
