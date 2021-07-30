@@ -6,3 +6,8 @@
     margin:auto;
     padding:0;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead{ width:calc(100% - 96px);
+    }
+ }
