@@ -34,6 +34,7 @@
 @media screen and (max-width: 425px) {
   .photo-grid {
     grid-template-columns: 1fr;
+    grid-auto-rows: min-content;
     grid-gap: 12px;
     max-width: calc(100% - 32px);
     margin: 64px auto 64px;
