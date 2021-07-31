@@ -23,5 +23,6 @@
     flex-direction: column;
     margin: 64px 0 24px;
     row-gap: 48px;
+    padding-left: 16px;
     }
 }
