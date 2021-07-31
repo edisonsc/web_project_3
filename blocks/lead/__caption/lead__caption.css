@@ -5,9 +5,9 @@
   line-height: 1.4;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  align-self: left;
-  padding-top: 8px;
-  margin: 0;
+  align-self: flex-start;
+  margin: 8px 0 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 768px) {
