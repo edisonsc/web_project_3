@@ -5,9 +5,15 @@ margin:0;
 padding:0;
 }  
 
+
+@media screen and (max-width: 20px) {
+  .place__link-area {
+    padding: 0 24px 0;
+  }
+}
 @media screen and (max-width: 425px) {
     .place__link-area {
-      margin: 0 16px 0;
+      padding: 0 16px 0;
     }
   }
   

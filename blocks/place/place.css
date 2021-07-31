@@ -8,6 +8,7 @@ grid-template-areas:
 "image text";
 }
 
+
 @media screen and (max-width: 425px) {
     .place {
         grid-column-gap:0;

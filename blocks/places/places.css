@@ -1,14 +1,20 @@
-.places{
-    display:flex;
-    flex-direction: column;
-    max-width: calc(100% - 96px);
-    margin: 0 auto 90px;
-    gap:80px;
+.places {
+  display: flex;
+  flex-direction: column;
+  max-width: calc(100% - 96px);
+  margin: 0 auto 90px;
+  gap: 80px;
+}
+
+@media screen and (max-width: 720px) {
+  .places {
+    gap: 73px;
+  }
 }
 
 @media screen and (max-width: 425px) {
-    .places {
-       max-width: 100%;
-    }
+  .places {
+    max-width: 100%;
+    gap: 48px;
   }
-  
+}
