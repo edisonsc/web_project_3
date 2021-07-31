@@ -5,3 +5,11 @@
     margin:98px auto 24px;
     padding:0;
 }
+
+@media screen and (max-width:425px) {
+    .footer {
+    flex-direction: column;
+    padding: 64px auto 64px;
+    row-gap: 48px;
+    }
+}
