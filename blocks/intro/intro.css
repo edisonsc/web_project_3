@@ -1,7 +1,7 @@
 .intro {
   display: flex;
   flex-direction: column;
-  width: calc(100% - 296px);
+  max-width: 984px;;
   justify-content: center;
   align-items: left;
   margin: auto;
