@@ -9,7 +9,7 @@
 @media screen and (max-width:425px) {
     .footer {
     flex-direction: column;
-    padding: 64px auto 64px;
+    margin: 64px auto 24px;
     row-gap: 48px;
     }
 }
