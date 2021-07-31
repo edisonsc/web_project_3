@@ -1,16 +1,16 @@
-.footer__links{
-    display:flex;
-    column-gap:18px;
-    list-style-type: none;
-    margin:0;
-    padding:0;
-    align-self: start;
+.footer__links {
+  display: flex;
+  column-gap: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  align-self: start;
 }
 
-@media screen and (max-width:425px) {
-    .footer__links {
+@media screen and (max-width: 425px) {
+  .footer__links {
     flex-direction: column;
-    padding: 64px auto 64px;
     row-gap: 32px;
-    }
+    padding-left: 16px;
+  }
 }
