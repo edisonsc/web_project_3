@@ -37,6 +37,5 @@
     grid-gap: 12px;
     max-width: calc(100% - 32px);
     margin: 64px auto 64px;
-    min-height: 216px;
   }
 }
