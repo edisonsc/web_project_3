@@ -1,13 +1,12 @@
-.place__link-area{
-grid-area: link-area;
-align-self: flex-end;
-margin:0;
-padding:0;
-}  
+.place__link-area {
+  grid-area: link-area;
+  align-self: flex-end;
+  margin: 0;
+  padding: 0;
+}
 
 @media screen and (max-width: 425px) {
-    .place__link-area {
-      padding: 0 16px 0;
-    }
+  .place__link-area {
+    padding: 0 16px 0;
   }
-  
+}
