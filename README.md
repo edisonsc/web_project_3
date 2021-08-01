@@ -2,7 +2,7 @@
 
 ### Overview
 * Intro
-* Project Brief - Figma Figma 
+* Project Brief - Figma
 * GitHub Pages Link
 * Responsive Design
 * Using Figma
