@@ -3,7 +3,7 @@
 ### Overview
 * Intro
 * Figma
-* Images
+* GitHub Pages Link
 
 **Intro**
 
@@ -15,12 +15,5 @@ This is a project about traveling across the US. It was built using HTML5, CSS, 
 
 **GitHub Pages**
 
-* View the finished project on [GitHub Pages] (https://edisonsc.github.io/web_project_3/index.html)
+* View the finished project on [GitHub Pages](https://edisonsc.github.io/web_project_3/index.html)
 
-
-
-
-Images
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
