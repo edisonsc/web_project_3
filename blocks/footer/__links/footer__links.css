@@ -1,10 +1,10 @@
 .footer__links {
   display: flex;
   column-gap: 18px;
-  list-style-type: none;
   margin: 0;
   padding: 0;
   align-self: start;
+  list-style-type: none;
 }
 
 @media screen and (max-width: 425px) {
